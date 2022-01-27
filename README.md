@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science!
 - 🌱 I’m currently learning at Boston University!
 - 💞️ I’m looking to collaborate on lots of projects!
-- 📫 How to reach me: who knows?!
+- 📫 How to reach me: hello@example.com
 
 <!---
 alexjmiller5/alexjmiller5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
