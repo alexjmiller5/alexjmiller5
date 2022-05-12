@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <img src="assets/logo-javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/html5.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/css-5.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/typescript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/angular-icon-1.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/react-2.svg" alt="React" height="40" style="vertical-align:top; margin:4px">  
-<img src="assets/c--4.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
-<img src="assets/dot-net-core-7.svg" alt=".NET Core" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="assets/typescript.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px"> -->
+<!-- <img src="assets/angular-icon-1.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px"> -->
+<!-- <img src="assets/react-2.svg" alt="React" height="40" style="vertical-align:top; margin:4px">   -->
+<!-- <img src="assets/c--4.svg" alt="C#" height="40" style="vertical-align:top; margin:4px"> -->
+<!-- <img src="assets/dot-net-core-7.svg" alt=".NET Core" height="40" style="vertical-align:top; margin:4px"> -->
 <img src="assets/git-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
