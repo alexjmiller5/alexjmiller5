@@ -1,19 +1,5 @@
 ## Hi there 👋 I'm Alex
 
-<!--
-**alexjmiller5/alexjmiller5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 👨‍💻 I'm a Computer Science major at Boston University's College of Arts & Sciences
  - 🔭 I’m currently working on a probability tree diagram geneator on the web
  - 🌱 I’m currently learning how to use Websockets
@@ -47,15 +33,3 @@ Here are some ideas to get you started:
 <!-- <img src="assets/c--4.svg" alt="C#" height="40" style="vertical-align:top; margin:4px"> -->
 <!-- <img src="assets/dot-net-core-7.svg" alt=".NET Core" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
-
-<!---
-- 👋 Hi, I’m @alexjmiller5
-- 👀 I’m interested in computer science!
-- 🌱 I’m currently learning at Boston University!
-- 💞️ I’m looking to collaborate on lots of projects!
-- 📫 How to reach me: alexjmil@bu.edu
---->
-<!---
-alexjmiller5/alexjmiller5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
