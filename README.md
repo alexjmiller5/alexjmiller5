@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ## :email: Find me on:  
 <p align="center">
- <a href="https://github.com/alexjmiller5/" target="_blank" rel="noopener noreferrer"> <img src="assets/globe(17).png" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/alex-miller512/" target="_blank" rel="noopener noreferrer"> <img src="assets/linkedin-icon-2.svg" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:amiller06880@gmail.com"> <img src="assets/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://github.com/alexjmiller5/" target="_blank" rel="noopener noreferrer"> <img src="assets/globe(17).png" height="40" style="vertical-align:top; margin:4px" target="_blank"> </a>
+ <a href="https://www.linkedin.com/in/alex-miller512/" target="_blank" rel="noopener noreferrer"> <img src="assets/linkedin-icon-2.svg" height="40" style="vertical-align:top; margin:4px" target="_blank"></a>
+ <a href="mailto:amiller06880@gmail.com"> <img src="assets/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px" target="_blank"></a> 
 </p>  
 
 ## 🧰 Languages and Tools:
