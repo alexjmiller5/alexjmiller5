@@ -43,17 +43,6 @@ Here are some ideas to get you started:
 <img src="assets/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## :trophy: My Github Stats:
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=sagyas&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sagyas&theme=tokyonight" />
-</a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sagyas&theme=tokyonight&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagyas&theme=tokyonight&layout=compact" />
-</a>
-</div>
-
-
 <!---
 - 👋 Hi, I’m @alexjmiller5
 - 👀 I’m interested in computer science!
