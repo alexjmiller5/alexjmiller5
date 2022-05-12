@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="center">
+<img src="assets/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/html5.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/css-5.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/java.svg" alt="Boostrap" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/logo-javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/html5.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/css-5.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
