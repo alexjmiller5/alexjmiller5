@@ -33,3 +33,13 @@
 <!-- <img src="assets/c--4.svg" alt="C#" height="40" style="vertical-align:top; margin:4px"> -->
 <!-- <img src="assets/dot-net-core-7.svg" alt=".NET Core" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
+
+## :trophy: My Github Stats:
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=alexjmiller5&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=alexjmiller5&theme=tokyonight" />
+</a>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact" />
+</a>
+</div>
