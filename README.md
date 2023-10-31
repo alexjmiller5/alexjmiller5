@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## :trophy: My Github Stats:
+<!--- ## :trophy: My Github Stats:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=alexjmiller5&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=alexjmiller5&theme=tokyonight" />
@@ -31,3 +31,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact" />
 </a>
 </div>
+-->
