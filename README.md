@@ -11,7 +11,7 @@
 
 ## :email: Find me on:  
 <p align="center">
- <a href="https://github.com/alexjmiller5/" rel="noopener noreferrer" target="_blank"> <img src="assets/github-icon.png" height="40" style="vertical-align:top; margin:4px" target="_blank"> </a>
+ <a href="https://github.com/alexjmiller5/" rel="noopener noreferrer" target="_blank"> <img src="assets/github-icon.svg" height="40" style="vertical-align:top; margin:4px" target="_blank"> </a>
  <a href="https://www.linkedin.com/in/alex-miller512/" rel="noopener noreferrer" target="_blank"> <img src="assets/linkedin-icon.svg" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:amiller06880@gmail.com" target="_blank"> <img src="assets/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>  
