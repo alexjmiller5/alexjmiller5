@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Alex
 
 ## 👨‍💻 I'm a Computer Science major at Boston University's College of Arts & Sciences
- - 🔭 I’m currently working on a probability tree diagram geneator on the web
+<!--- - 🔭 I’m currently working on a probability tree diagram geneator on the web
  - 🌱 I’m currently learning how to use Websockets
  - 👯 I’m looking to collaborate on any project
+ -->
  - 💬 Ask me about anything!
  - ⚡ Fun fact: I am an identical twin!
  - 📫 How to reach me: 98389659+alexjmiller5@users.noreply.github.com
