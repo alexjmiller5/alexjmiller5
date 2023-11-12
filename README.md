@@ -10,7 +10,7 @@
  - 📫 How to reach me: 98389659+alexjmiller5@users.noreply.github.com
 
 ## :email: Find me on:  
-<p align="center">
+<p>
  <a href="https://github.com/alexjmiller5/" rel="noopener noreferrer" target="_blank"> <img src="assets/github-icon.svg" height="40" style="vertical-align:top; margin:4px" target="_blank"> </a>
  <a href="https://www.linkedin.com/in/ajmil/" rel="noopener noreferrer" target="_blank"> <img src="assets/linkedin-icon.svg" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:98389659+alexjmiller5@users.noreply.github.com" target="_blank"> <img src="assets/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
@@ -23,13 +23,13 @@
   </a>
 </p>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,pytorch,nodejs,mysql&theme=dark"/>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,flask,flutter,processing,firebase,github,gitlab&theme=dark"/>
   </a>
 </p>
 <p>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,flask,flutter,processing,firebase,github,gitlab&theme=dark"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,pytorch,nodejs,mysql&theme=dark"/>
   </a>
 </p>
 
