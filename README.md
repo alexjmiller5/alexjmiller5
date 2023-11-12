@@ -17,9 +17,19 @@
 </p>  
 
 ## 🧰 Languages and Tools:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,html,css,bootstrap,js,html,git,linux&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,go,dart,html,css,js,pug,git,linux,bash&theme=dark"/>
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,pytorch,nodejs,mysql&theme=dark"/>
+  </a>
+</p>
+<p>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,flask,flutter,processing,firebase,github,gitlab&theme=dark"/>
   </a>
 </p>
 
