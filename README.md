@@ -7,7 +7,6 @@
  -->
  - 💬 Ask me about anything!
  - ⚡ Fun fact: I am an identical twin!
- - 📫 How to reach me: amiller06880@gmail.com
 
 ## :email: Find me on:  
 <p>
