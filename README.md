@@ -7,7 +7,6 @@
  -->
  - 💬 Ask me about anything!
  - ⚡ Fun fact: I am an identical twin!
- - 📫 How to reach me: 98389659+alexjmiller5@users.noreply.github.com
 
 ## :email: Find me on:  
 <p>
