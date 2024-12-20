@@ -1,14 +1,16 @@
 # Hi there 👋 I'm Alex!
 
- - 👨‍💻 I'm a Computer Science major at Boston University's College of Arts & Sciences
+## About Me
+
+ - 👨‍💻 I study Computer Science at Boston University's College of Arts & Sciences
  - 💬 Ask me about anything!
  - ⚡ Fun fact: I am an identical twin!
 
 ## :email: Find me on  
 <p>
- <a href="https://github.com/alexjmiller5/" rel="noopener noreferrer" target="_blank"> <img src="assets/github-icon.svg" height="40" style="vertical-align:top; margin:4px" target="_blank"> </a>
- <a href="https://www.linkedin.com/in/ajmil/" rel="noopener noreferrer" target="_blank"> <img src="assets/linkedin-icon.svg" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:amiller06880@gmail.com" target="_blank"> <img src="assets/gmail-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://github.com/alexjmiller5/" rel="noopener noreferrer" target="_blank"><img src="assets/github-icon.svg" alt="GitHub Icon" height="40"></a>
+ <a href="https://www.linkedin.com/in/ajmil/" rel="noopener noreferrer" target="_blank"><img src="assets/linkedin-icon.svg" alt="LinkedIn Icon" height="40"></a>
+ <a href="mailto:amiller06880@gmail.com" rel="noopener noreferrer" target="_blank"><img src="assets/gmail-icon.svg" alt="Gmail Icon" height="40"></a> 
 </p>  
 
 ## 💼 Projects
@@ -40,7 +42,7 @@
 - **Technologies Used:** CockroachDB, WebHook, ngrok, Flask, Stockfish, Twilio.
 - **Highlights:** Won the challenge for best use of CockroachDB at BostonHacks 2022, a distributed SQL database!
 
-## 🧰 Languages and Tools
+## 🧰 Skills
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,go,dart,html,css,js,pug,git,linux,bash&theme=dark"/>
@@ -57,11 +59,11 @@
   </a>
 </p>
 
-## :trophy: My Github Stats
+## :trophy: Github Stats
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=alexjmiller5&theme=tokyonight">
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=alexjmiller5&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=alexjmiller5&theme=tokyonight" />
-</a>
+</a> -->
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact" />
 </a>
