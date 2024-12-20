@@ -2,7 +2,7 @@
 
 ## About Me
 
- - 👨‍💻 I study Computer Science at Boston University's College of Arts & Sciences
+ - 👨‍💻 I study Computer Science at Boston University's College of Arts & Sciences.
  - 💬 Ask me about anything!
  - ⚡ Fun fact: I am an identical twin!
 
