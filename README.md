@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Alex!
+# Hi there 👋 I'm Alex!
 
  - 👨‍💻 I'm a Computer Science major at Boston University's College of Arts & Sciences
  - 💬 Ask me about anything!
  - ⚡ Fun fact: I am an identical twin!
 
-## :email: Find me on:  
+## :email: Find me on  
 <p>
  <a href="https://github.com/alexjmiller5/" rel="noopener noreferrer" target="_blank"> <img src="assets/github-icon.svg" height="40" style="vertical-align:top; margin:4px" target="_blank"> </a>
  <a href="https://www.linkedin.com/in/ajmil/" rel="noopener noreferrer" target="_blank"> <img src="assets/linkedin-icon.svg" height="40" style="vertical-align:top; margin:4px"></a>
@@ -40,7 +40,7 @@
 - **Technologies Used:** CockroachDB, WebHook, ngrok, Flask, Stockfish, Twilio.
 - **Highlights:** Won the challenge for best use of CockroachDB at BostonHacks 2022, a distributed SQL database!
 
-## 🧰 Languages and Tools:
+## 🧰 Languages and Tools
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,go,dart,html,css,js,pug,git,linux,bash&theme=dark"/>
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<!--- ## :trophy: My Github Stats:
+## :trophy: My Github Stats
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=alexjmiller5&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=alexjmiller5&theme=tokyonight" />
@@ -66,4 +66,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact" />
 </a>
 </div>
--->
