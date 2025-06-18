@@ -10,7 +10,6 @@
 <p>
  <a href="https://github.com/alexjmiller5/" rel="noopener noreferrer" target="_blank"><img src="assets/github-icon.svg" alt="GitHub Icon" height="40"></a>
  <a href="https://www.linkedin.com/in/ajmil/" rel="noopener noreferrer" target="_blank"><img src="assets/linkedin-icon.svg" alt="LinkedIn Icon" height="40"></a>
- <a href="mailto:amiller06880@gmail.com" rel="noopener noreferrer" target="_blank"><img src="assets/gmail-icon.svg" alt="Gmail Icon" height="40"></a> 
 </p>  
 
 ## 💼 Projects
@@ -45,17 +44,17 @@
 ## 🧰 Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,go,dart,html,css,js,pug,git,linux,bash&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,go,dart,html,css,js,ts&theme=dark"/>
   </a>
 </p>
 <p>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,flask,flutter,processing,firebase,github,gitlab&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=vscode,azure,gcp,jenkins,bash,linux,docker,postman,firebase,git,github,nodejs&theme=dark"/>
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,pytorch,nodejs,mysql&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,django,flutter,spring,flask&theme=dark"/>
   </a>
 </p>
 
