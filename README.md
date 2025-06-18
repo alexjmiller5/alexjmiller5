@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Alex!
 
-## About Me
+## :information_desk_person: About Me
 
  - 👨‍💻 I study Computer Science at Boston University's College of Arts & Sciences.
  - 💬 Ask me about anything!
