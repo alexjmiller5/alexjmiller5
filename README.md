@@ -2,15 +2,8 @@
 
 ## :information_desk_person: About Me
 
- - 👨‍💻 I'm a software engineer.
- - 💬 Ask me about anything!
+ - 👨‍💻 I'm a software engineer!
  - ⚡ Fun fact: I am an identical twin!
-
-## :email: Find me on  
-<p>
- <a href="https://github.com/alexjmiller5/" rel="noopener noreferrer" target="_blank"><img src="assets/github-icon.svg" alt="GitHub Icon" height="40"></a>
- <a href="https://www.linkedin.com/in/ajmil/" rel="noopener noreferrer" target="_blank"><img src="assets/linkedin-icon.svg" alt="LinkedIn Icon" height="40"></a>
-</p>  
 
 ## 💼 Projects
 
