@@ -32,7 +32,7 @@
 - **Description:** Chrome extension to export student class schedules to Google Calendar with OAuth authentication.
 - **Technologies Used:** JavaScript, HTML, CSS, Google Cloud APIs.
 - **Highlights:** Won the challenge for best use of Google Cloud Platform BostonHacks 2023, a distributed SQL database!
-### [DoodleJump Neat-AI](https://github.com/alexjmiller5/DoodleJump-NEAT-AI)
+### [DoodleJump AI Agent](https://github.com/alexjmiller5/DoodleJump-NEAT-AI)
 - **Description:** Implementation the [NEAT algorithm](https://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf) to automate the gameplay of DoodleJump.
 - **Technologies Used:** neat-python, Pygame.
 - **Highlights:** Check out some cool videos of the algorithm learning to pay DoodleJump [here](https://youtu.be/TbiUGNLxEMQ) and [here](https://youtu.be/CsDxCkCBqnc)!
