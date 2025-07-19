@@ -2,7 +2,7 @@
 
 ## :information_desk_person: About Me
 
- - 👨‍💻 I study Computer Science at Boston University's College of Arts & Sciences.
+ - 👨‍💻 I'm a software engineer.
  - 💬 Ask me about anything!
  - ⚡ Fun fact: I am an identical twin!
 
