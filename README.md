@@ -1,10 +1,5 @@
 # Hi there 👋 I'm Alex!
 
-## :information_desk_person: About Me
-
- - 👨‍💻 I'm a software engineer!
- - ⚡ Fun fact: I am an identical twin!
-
 ## 💼 Projects
 
 ### [CodeHive](https://github.com/orgs/Spark-Project-Pulse/repositories)
