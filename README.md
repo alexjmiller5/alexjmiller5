@@ -6,7 +6,6 @@
 
 - 💸 **[notion-finance-sync](https://github.com/alexjmiller5/notion-finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
 - 📉 **[notion-task-burndown-chart](https://github.com/alexjmiller5/notion-task-burndown-chart)** - Burndown chart over my Notion Tasks DB
-- 📊 **[stacked-task-chart](https://github.com/alexjmiller5/stacked-task-chart)** - Stacked line chart of Notion task completion over time
 - 📡 **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
 
 ### Declarative Macs & Infra
@@ -43,6 +42,10 @@
 - ♟️ **[chessms](https://github.com/alexjmiller5/chessms)** - Chess against Stockfish over SMS — best use of CockroachDB, BostonHacks 2022
 - 🕹️ **[doodlejump-neat-ai](https://github.com/alexjmiller5/doodlejump-neat-ai)** - NEAT algorithm learning to play DoodleJump ([video](https://youtu.be/TbiUGNLxEMQ))
 - 🧊 **[3d-printable-maze-generator](https://github.com/alexjmiller5/3d-printable-maze-generator)** - Randomly generated 3D-printable mazes as STL files
+
+### Legacy
+
+- 📊 **[stacked-task-chart](https://github.com/alexjmiller5/stacked-task-chart)** - Stacked line chart of Notion task completion over time
 
 ## 🧰 Skills
 <p>
