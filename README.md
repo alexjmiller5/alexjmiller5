@@ -2,32 +2,47 @@
 
 ## 💼 Projects
 
-### [CodeHive](https://github.com/orgs/Spark-Project-Pulse/repositories)
-- **Description:** A platform for developers to share projects and get feedback efficiently.
-- **Technologies Used:** React, Next.js, TypeScript, TailwindCSS, Django, Python, Supabase, PostgreSQL.
-- **Highlights:**
-  - Collaborated with UI/UX designers to implement a user-friendly interface and standardized wireframes from Figma.
-  - Deployed the app to a live web domain at [codehive.buzz](https://codehive.buzz)!
-  - Decoupled the [frontend](https://github.com/Spark-Project-Pulse/codehive-frontend) and [backend](https://github.com/Spark-Project-Pulse/codehive-backend) application services into separate repositories.
-### [Guest List Submission Automation Platform](https://github.com/alexjmiller5/promoter-guestlist-platform)
-- **Description:** Partnered with a local club promoter to develop an automated guest list management system, enabling the submission of hundreds of guests’ information and generating significant revenue.
-- **Technologies Used:** JavaScript, HTML, CSS, Python, Django, Firestore, Google Cloud Run, Docker, Google Secrets Manager, GitHub, Google Cloud Build.
-- **Highlights:** 
-  - Engineered a real-time notification system to enhance operational efficiency and user experience.
-  - Developed a CI/CD pipeline for automated deployments with secure secret handling.
-  - Deployed the app to a live web domain at [wtwboston.com](https://wtwboston.com)!
-### [BU GCal Sync](https://github.com/alexjmiller5/BUGCalSync)
-- **Description:** Chrome extension to export student class schedules to Google Calendar with OAuth authentication.
-- **Technologies Used:** JavaScript, HTML, CSS, Google Cloud APIs.
-- **Highlights:** Won the challenge for best use of Google Cloud Platform BostonHacks 2023, a distributed SQL database!
-### [DoodleJump AI Agent](https://github.com/alexjmiller5/DoodleJump-NEAT-AI)
-- **Description:** Implementation the [NEAT algorithm](https://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf) to automate the gameplay of DoodleJump.
-- **Technologies Used:** neat-python, Pygame.
-- **Highlights:** Check out some cool videos of the algorithm learning to pay DoodleJump [here](https://youtu.be/TbiUGNLxEMQ) and [here](https://youtu.be/CsDxCkCBqnc)!
-### [ChessMS](https://github.com/alexjmiller5/ChessMS)
-- **Description:** A chess game played against an AI via SMS text message.
-- **Technologies Used:** CockroachDB, WebHook, ngrok, Flask, Stockfish, Twilio.
-- **Highlights:** Won the challenge for best use of CockroachDB at BostonHacks 2022, a distributed SQL database!
+### Notion as a Second Brain
+
+- 💸 **[notion-finance-sync](https://github.com/alexjmiller5/notion-finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
+- 📉 **[notion-task-burndown-chart](https://github.com/alexjmiller5/notion-task-burndown-chart)** - Burndown chart over my Notion Tasks DB
+- 📊 **[stacked-task-chart](https://github.com/alexjmiller5/stacked-task-chart)** - Stacked line chart of Notion task completion over time
+- 📡 **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
+
+### Declarative Macs & Infra
+
+- ❄️ **[nix-config](https://github.com/alexjmiller5/nix-config)** - Declarative macOS machine configs with nix-darwin + home-manager (runs my mac mini)
+- ☁️ **[personal-oci-vm-fleet](https://github.com/alexjmiller5/personal-oci-vm-fleet)** - Terraform + NixOS flake for my OCI Always-Free ARM VM fleet
+- 🔭 **[change-detection-deployment](https://github.com/alexjmiller5/change-detection-deployment)** - changedetection.io on NixOS/OCI with Tailscale Funnel for public HTTPS
+- 🛜 **[nixos-ocp-tailscale-vm-iac](https://github.com/alexjmiller5/nixos-ocp-tailscale-vm-iac)** - nixos-infect + Tailscale on an OCI free-tier VM
+
+### Backups & Personal Data
+
+- ⏳ **[screentime-backup](https://github.com/alexjmiller5/screentime-backup)** - Weekly launchd snapshots of the macOS Screen Time databases
+- 📞 **[callhistory-backup](https://github.com/alexjmiller5/callhistory-backup)** - Weekly snapshots of macOS call & FaceTime history (nix-darwin module)
+
+### Live Sites
+
+- 🎓 **[MySupplementals](https://mysupplementals.com)** - Search & export undergraduate college essay prompts
+- 🪩 **[WTW Boston](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter
+
+### In the Lab (private for now)
+
+- 🧠 **Synapse** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
+- 🗺️ **Blueprint** - Declarative configuration of my Macs, alongside nix-config
+- 🔄 **notion-spotify-sync / notion-contact-sync / github-bookmarks-sync / my-media-center** - Pipelines keeping Spotify, contacts, GitHub stars, and media feeds synced into Notion
+- 🎂 **birthday-reminders** - Opt-in birthday reminders from my Notion People DB with iOS push
+- 📣 **social-pipe** - Pipeline for producing & scheduling social media content
+- 🤫 **quietgram** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
+- ⌨️ **ios-shortcuts** - iOS Shortcuts written in the Cherri language
+
+### School & Hackathons
+
+- 🐝 **[CodeHive](https://github.com/orgs/Spark-Project-Pulse/repositories)** - Platform for developers to share projects and get feedback ([codehive.buzz](https://codehive.buzz))
+- 📅 **[bu-gcalsync](https://github.com/alexjmiller5/bu-gcalsync)** - Chrome extension syncing BU class schedules to Google Calendar — best use of GCP, BostonHacks 2023
+- ♟️ **[chessms](https://github.com/alexjmiller5/chessms)** - Chess against Stockfish over SMS — best use of CockroachDB, BostonHacks 2022
+- 🕹️ **[doodlejump-neat-ai](https://github.com/alexjmiller5/doodlejump-neat-ai)** - NEAT algorithm learning to play DoodleJump ([video](https://youtu.be/TbiUGNLxEMQ))
+- 🧊 **[3d-printable-maze-generator](https://github.com/alexjmiller5/3d-printable-maze-generator)** - Randomly generated 3D-printable mazes as STL files
 
 ## 🧰 Skills
 <p>
