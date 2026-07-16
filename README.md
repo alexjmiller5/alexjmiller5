@@ -17,7 +17,6 @@
 ### Declarative Macs & Infra
 
 - ❄️ **[nix-config](https://github.com/alexjmiller5/nix-config)** - Declarative macOS machine configs with nix-darwin + home-manager (runs my mac mini)
-- 🗺️ **[blueprint](https://github.com/alexjmiller5/blueprint)** - Declarative macOS configuration & backup tool — watches configured files, snapshots per-module, auto-commits
 - ☁️ **[personal-oci-vm-fleet](https://github.com/alexjmiller5/personal-oci-vm-fleet)** - Terraform + NixOS flake for my OCI Always-Free ARM VM fleet
 - 🔭 **[change-detection-deployment](https://github.com/alexjmiller5/change-detection-deployment)** - changedetection.io on NixOS/OCI with Tailscale Funnel for public HTTPS
 - 🛜 **[nixos-ocp-tailscale-vm-iac](https://github.com/alexjmiller5/nixos-ocp-tailscale-vm-iac)** - nixos-infect + Tailscale on an OCI free-tier VM
@@ -48,6 +47,7 @@
 
 ### Legacy
 
+- 🗺️ **[blueprint](https://github.com/alexjmiller5/blueprint)** - Declarative macOS configuration & backup tool — watches configured files, snapshots per-module, auto-commits
 - 📊 **[stacked-task-chart](https://github.com/alexjmiller5/stacked-task-chart)** - Stacked line chart of Notion task completion over time
 
 ## 🧰 Skills
