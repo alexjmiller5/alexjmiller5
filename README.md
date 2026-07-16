@@ -9,6 +9,7 @@
 - 👥 **[notion-contact-sync](https://github.com/alexjmiller5/notion-contact-sync)** - Unifies social-platform contact exports into my Notion People DB
 - ⭐ **[github-bookmarks-sync](https://github.com/alexjmiller5/github-bookmarks-sync)** - GitHub stars → Notion Bookmarks (Cloudflare Worker, daily cron)
 - 📰 **[my-media-center](https://github.com/alexjmiller5/my-media-center)** - Headless pollers watching RSS feeds & changelogs, pushing updates into Notion
+- 🎂 **[birthday-reminders](https://github.com/alexjmiller5/birthday-reminders)** - Opt-in birthday reminders from my Notion People DB with iOS push
 - 📉 **[notion-task-burndown-chart](https://github.com/alexjmiller5/notion-task-burndown-chart)** - Burndown chart over my Notion Tasks DB
 - 📡 **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
 
@@ -24,6 +25,7 @@
 
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
 - 📣 **[social-pipe](https://github.com/alexjmiller5/social-pipe)** - Pipeline for producing & scheduling social media content
+- ⌨️ **[ios-shortcuts](https://github.com/alexjmiller5/ios-shortcuts)** - iOS Shortcuts written in the Cherri language
 
 ### Backups & Personal Data
 
@@ -38,8 +40,6 @@
 ### In the Lab (private for now)
 
 - 🧠 **Synapse** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
-- 🎂 **birthday-reminders** - Opt-in birthday reminders from my Notion People DB with iOS push
-- ⌨️ **ios-shortcuts** - iOS Shortcuts written in the Cherri language
 
 ### School & Hackathons
 
