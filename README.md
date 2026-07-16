@@ -4,6 +4,7 @@
 
 ### Notion as a Second Brain
 
+- 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
 - 💸 **[notion-finance-sync](https://github.com/alexjmiller5/notion-finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
 - 🎵 **[notion-spotify-sync](https://github.com/alexjmiller5/notion-spotify-sync)** - Two-way Spotify ↔ Notion playlist sync
 - 👥 **[notion-contact-sync](https://github.com/alexjmiller5/notion-contact-sync)** - Unifies social-platform contact exports into my Notion People DB
@@ -36,10 +37,6 @@
 
 - 🎓 **[MySupplementals](https://mysupplementals.com)** - Search & export undergraduate college essay prompts
 - 🪩 **[WTW Boston](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter
-
-### In the Lab (private for now)
-
-- 🧠 **Synapse** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
 
 ### School & Hackathons
 
