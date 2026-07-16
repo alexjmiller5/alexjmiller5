@@ -21,21 +21,21 @@
 - 🔭 **[change-detection-deployment](https://github.com/alexjmiller5/change-detection-deployment)** - changedetection.io on NixOS/OCI with Tailscale Funnel for public HTTPS
 - 🛜 **[nixos-ocp-tailscale-vm-iac](https://github.com/alexjmiller5/nixos-ocp-tailscale-vm-iac)** - nixos-infect + Tailscale on an OCI free-tier VM
 
-### Apps & Media
+### Apps
 
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
-- 📣 **[social-pipe](https://github.com/alexjmiller5/social-pipe)** - Pipeline for producing & scheduling social media content
+
+### Personal Automation & Data
+
 - ⌨️ **[ios-shortcuts](https://github.com/alexjmiller5/ios-shortcuts)** - iOS Shortcuts written in the Cherri language
-
-### Backups & Personal Data
-
 - ⏳ **[screentime-backup](https://github.com/alexjmiller5/screentime-backup)** - Weekly launchd snapshots of the macOS Screen Time databases
 - 📞 **[callhistory-backup](https://github.com/alexjmiller5/callhistory-backup)** - Weekly snapshots of macOS call & FaceTime history (nix-darwin module)
 
-### Live Sites
+### Business Experiments
 
 - 🎓 **[MySupplementals](https://mysupplementals.com)** - Search & export undergraduate college essay prompts
 - 🪩 **[WTW Boston](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter
+- 📣 **[social-pipe](https://github.com/alexjmiller5/social-pipe)** - Pipeline for producing & scheduling social media content
 
 ### School & Hackathons
 
