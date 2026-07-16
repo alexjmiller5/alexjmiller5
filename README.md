@@ -5,15 +5,25 @@
 ### Notion as a Second Brain
 
 - 💸 **[notion-finance-sync](https://github.com/alexjmiller5/notion-finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
+- 🎵 **[notion-spotify-sync](https://github.com/alexjmiller5/notion-spotify-sync)** - Two-way Spotify ↔ Notion playlist sync
+- 👥 **[notion-contact-sync](https://github.com/alexjmiller5/notion-contact-sync)** - Unifies social-platform contact exports into my Notion People DB
+- ⭐ **[github-bookmarks-sync](https://github.com/alexjmiller5/github-bookmarks-sync)** - GitHub stars → Notion Bookmarks (Cloudflare Worker, daily cron)
+- 📰 **[my-media-center](https://github.com/alexjmiller5/my-media-center)** - Headless pollers watching RSS feeds & changelogs, pushing updates into Notion
 - 📉 **[notion-task-burndown-chart](https://github.com/alexjmiller5/notion-task-burndown-chart)** - Burndown chart over my Notion Tasks DB
 - 📡 **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
 
 ### Declarative Macs & Infra
 
 - ❄️ **[nix-config](https://github.com/alexjmiller5/nix-config)** - Declarative macOS machine configs with nix-darwin + home-manager (runs my mac mini)
+- 🗺️ **[blueprint](https://github.com/alexjmiller5/blueprint)** - Declarative macOS configuration & backup tool — watches configured files, snapshots per-module, auto-commits
 - ☁️ **[personal-oci-vm-fleet](https://github.com/alexjmiller5/personal-oci-vm-fleet)** - Terraform + NixOS flake for my OCI Always-Free ARM VM fleet
 - 🔭 **[change-detection-deployment](https://github.com/alexjmiller5/change-detection-deployment)** - changedetection.io on NixOS/OCI with Tailscale Funnel for public HTTPS
 - 🛜 **[nixos-ocp-tailscale-vm-iac](https://github.com/alexjmiller5/nixos-ocp-tailscale-vm-iac)** - nixos-infect + Tailscale on an OCI free-tier VM
+
+### Apps & Media
+
+- 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
+- 📣 **[social-pipe](https://github.com/alexjmiller5/social-pipe)** - Pipeline for producing & scheduling social media content
 
 ### Backups & Personal Data
 
@@ -28,11 +38,7 @@
 ### In the Lab (private for now)
 
 - 🧠 **Synapse** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
-- 🗺️ **Blueprint** - Declarative configuration of my Macs, alongside nix-config
-- 🔄 **notion-spotify-sync / notion-contact-sync / github-bookmarks-sync / my-media-center** - Pipelines keeping Spotify, contacts, GitHub stars, and media feeds synced into Notion
 - 🎂 **birthday-reminders** - Opt-in birthday reminders from my Notion People DB with iOS push
-- 📣 **social-pipe** - Pipeline for producing & scheduling social media content
-- 🤫 **quietgram** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
 - ⌨️ **ios-shortcuts** - iOS Shortcuts written in the Cherri language
 
 ### School & Hackathons
