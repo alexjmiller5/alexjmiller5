@@ -25,9 +25,12 @@
 
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
 
-### Personal Automation & Data
+### Personal Automation
 
 - ⌨️ **[ios-shortcuts](https://github.com/alexjmiller5/ios-shortcuts)** - iOS Shortcuts written in the Cherri language
+
+### Data Backups
+
 - ⏳ **[screentime-backup](https://github.com/alexjmiller5/screentime-backup)** - Weekly launchd snapshots of the macOS Screen Time databases
 - 📞 **[callhistory-backup](https://github.com/alexjmiller5/callhistory-backup)** - Weekly snapshots of macOS call & FaceTime history (nix-darwin module)
 
