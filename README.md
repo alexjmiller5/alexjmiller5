@@ -21,6 +21,13 @@
 - 🔭 **[change-detection-deployment](https://github.com/alexjmiller5/change-detection-deployment)** - changedetection.io on NixOS/OCI with Tailscale Funnel for public HTTPS
 - 🛜 **[nixos-ocp-tailscale-vm-iac](https://github.com/alexjmiller5/nixos-ocp-tailscale-vm-iac)** - nixos-infect + Tailscale on an OCI free-tier VM
 
+### Project Templates
+
+- 🌐 **[cf-site](https://github.com/alexjmiller5/cf-site)** - Template for Svelte sites on Cloudflare Workers with wrangler IaC, R2, and 1Password secrets
+- ⚙️ **[modal-service](https://github.com/alexjmiller5/modal-service)** - Template for Python services on Modal: HTTP webhook, background workers, optional cron
+- 🖥️ **[mini-job](https://github.com/alexjmiller5/mini-job)** - Template for Mac mini launchd jobs needing residential IP, Apple data, or local hardware
+- 📱 **[apple-app](https://github.com/alexjmiller5/apple-app)** - Template for native Apple apps: SwiftUI + XcodeGen, iOS + optional macOS, two-mode signing
+
 ### Apps
 
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
