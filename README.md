@@ -31,11 +31,13 @@
 ### Apps
 
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
+- 🍺 **[homebrew-tap](https://github.com/alexjmiller5/homebrew-tap)** - Homebrew tap for my personal macOS apps, casks auto-published by each app's release workflow
 
 ### Personal Automation
 
 - ⌨️ **[ios-shortcuts](https://github.com/alexjmiller5/ios-shortcuts)** - iOS Shortcuts written in the Cherri language
 - 🔨 **[hammerspoon](https://github.com/alexjmiller5/hammerspoon)** - My Hammerspoon config: global & app-based macOS hotkeys with per-machine profiles
+- 🪟 **[workspace-snapshot](https://github.com/alexjmiller5/workspace-snapshot)** - Hammerspoon Spoon for saving and restoring macOS window workspaces
 
 ### Data Backups
 
