@@ -87,3 +87,12 @@
   <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact" />
 </a>
 </div>
+
+<!--
+profile-exempt — public repos Alex explicitly approved leaving off this README.
+Agents: every public repo must appear in the list above OR here; a repo in
+neither needs Alex's decision (list it or exempt it) — never assume.
+Approved omissions:
+- alexjmiller5 (this profile repo)
+-->
+
