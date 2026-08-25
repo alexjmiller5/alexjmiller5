@@ -35,6 +35,7 @@
 ### Personal Automation
 
 - ⌨️ **[ios-shortcuts](https://github.com/alexjmiller5/ios-shortcuts)** - iOS Shortcuts written in the Cherri language
+- 🔨 **[hammerspoon](https://github.com/alexjmiller5/hammerspoon)** - My Hammerspoon config: global & app-based macOS hotkeys with per-machine profiles
 
 ### Data Backups
 
