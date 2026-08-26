@@ -42,6 +42,7 @@
 ### Data Backups
 
 - ⏳ **[screentime-backup](https://github.com/alexjmiller5/screentime-backup)** - Weekly launchd snapshots of the macOS Screen Time databases
+- 📱 **[screentime-dashboard](https://github.com/alexjmiller5/screentime-dashboard)** - Dashboard of my Screen Time history across devices, imported in-browser from the backups
 - 📞 **[callhistory-backup](https://github.com/alexjmiller5/callhistory-backup)** - Weekly snapshots of macOS call & FaceTime history (nix-darwin module)
 
 ### Business Experiments
