@@ -4,6 +4,7 @@
 
 ### Notion as a Second Brain
 
+- 🗄️ **[life-data](https://github.com/alexjmiller5/life-data)** - Schema-agnostic personal data store: local-first SQLite with an agent-friendly CLI
 - 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
 - 💸 **[notion-finance-sync](https://github.com/alexjmiller5/notion-finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
 - 🎵 **[notion-spotify-sync](https://github.com/alexjmiller5/notion-spotify-sync)** - Two-way Spotify ↔ Notion playlist sync
