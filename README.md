@@ -19,6 +19,7 @@
 ### Declarative Macs & Infra
 
 - ❄️ **[nix-config](https://github.com/alexjmiller5/nix-config)** - Declarative macOS machine configs with nix-darwin + home-manager (runs my mac mini)
+- 🤖 **[agent-config-public](https://github.com/alexjmiller5/agent-config-public)** - Agent-agnostic AI agent skills, the shareable half of my agent configuration
 - ☁️ **[personal-oci-vm-fleet](https://github.com/alexjmiller5/personal-oci-vm-fleet)** - Terraform + NixOS flake for my OCI Always-Free ARM VM fleet
 - 🔭 **[change-detection-deployment](https://github.com/alexjmiller5/change-detection-deployment)** - changedetection.io on NixOS/OCI with Tailscale Funnel for public HTTPS
 - 🛜 **[nixos-ocp-tailscale-vm-iac](https://github.com/alexjmiller5/nixos-ocp-tailscale-vm-iac)** - nixos-infect + Tailscale on an OCI free-tier VM
