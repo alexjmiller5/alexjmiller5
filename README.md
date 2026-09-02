@@ -6,6 +6,7 @@
 
 - 🗄️ **[life-data](https://github.com/alexjmiller5/life-data)** - Schema-agnostic personal data store: local-first SQLite with an agent-friendly CLI
 - 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
+- ⚙️ **[notion-automations](https://github.com/alexjmiller5/notion-automations)** - All my Notion automations codified outside Notion: Modal cron dispatcher + webhook receiver
 - 💸 **[notion-finance-sync](https://github.com/alexjmiller5/notion-finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
 - 🎵 **[notion-spotify-sync](https://github.com/alexjmiller5/notion-spotify-sync)** - Two-way Spotify ↔ Notion playlist sync
 - 👥 **[notion-contact-sync](https://github.com/alexjmiller5/notion-contact-sync)** - Unifies social-platform contact exports into my Notion People DB
