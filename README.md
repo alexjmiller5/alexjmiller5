@@ -35,6 +35,7 @@
 
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
 - 🍺 **[homebrew-tap](https://github.com/alexjmiller5/homebrew-tap)** - Homebrew tap for my personal macOS apps, casks auto-published by each app's release workflow
+- 💰 **[networth](https://github.com/alexjmiller5/networth)** - Money-over-time dashboard: balances, cash flow, and spending across all my accounts
 
 ### Personal Automation
 
