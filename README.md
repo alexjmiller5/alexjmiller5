@@ -9,7 +9,7 @@
 - ⚙️ **[notion-automations](https://github.com/alexjmiller5/notion-automations)** - All my Notion automations codified outside Notion: Modal cron dispatcher + webhook receiver
 - 💸 **[notion-finance-sync](https://github.com/alexjmiller5/notion-finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
 - 🎵 **[notion-spotify-sync](https://github.com/alexjmiller5/notion-spotify-sync)** - Two-way Spotify ↔ Notion playlist sync
-- 👥 **[notion-contact-sync](https://github.com/alexjmiller5/notion-contact-sync)** - Unifies social-platform contact exports into my Notion People DB
+- 👥 **[contact-sync](https://github.com/alexjmiller5/contact-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my life-data people estate
 - ⭐ **[github-bookmarks-sync](https://github.com/alexjmiller5/github-bookmarks-sync)** - GitHub stars → Notion Bookmarks (Cloudflare Worker, daily cron)
 - 📰 **[my-media-center](https://github.com/alexjmiller5/my-media-center)** - Headless pollers watching RSS feeds & changelogs, pushing updates into Notion
 - 🎂 **[birthday-reminders](https://github.com/alexjmiller5/birthday-reminders)** - Opt-in birthday reminders from my Notion People DB with iOS push
@@ -29,7 +29,7 @@
 - 🌐 **[cf-site](https://github.com/alexjmiller5/cf-site)** - Template for Svelte sites on Cloudflare Workers with wrangler IaC, R2, and 1Password secrets
 - ⚙️ **[modal-service](https://github.com/alexjmiller5/modal-service)** - Template for Python services on Modal: HTTP webhook, background workers, optional cron
 - 🖥️ **[mini-job](https://github.com/alexjmiller5/mini-job)** - Template for Mac mini launchd jobs needing residential IP, Apple data, or local hardware
-- 📱 **[apple-app](https://github.com/alexjmiller5/apple-app)** - Template for native Apple apps: SwiftUI + XcodeGen, iOS + optional macOS, two-mode signing
+- 📱 **[ios-app](https://github.com/alexjmiller5/ios-app)** - Template for personal iOS apps installed by cable with 1-year Ad Hoc signing
 
 ### Apps
 
@@ -62,6 +62,7 @@
 - 📅 **[bu-gcalsync](https://github.com/alexjmiller5/bu-gcalsync)** - Chrome extension syncing BU class schedules to Google Calendar — best use of GCP, BostonHacks 2023
 - ♟️ **[chessms](https://github.com/alexjmiller5/chessms)** - Chess against Stockfish over SMS — best use of CockroachDB, BostonHacks 2022
 - 🕹️ **[doodlejump-neat-ai](https://github.com/alexjmiller5/doodlejump-neat-ai)** - NEAT algorithm learning to play DoodleJump ([video](https://youtu.be/TbiUGNLxEMQ))
+- 🥢 **[chopsticks](https://github.com/alexjmiller5/chopsticks)** - Browser game of the nostalgic hand game chopsticks ([chopsticks-chi.vercel.app](https://chopsticks-chi.vercel.app))
 - 🧊 **[3d-printable-maze-generator](https://github.com/alexjmiller5/3d-printable-maze-generator)** - Randomly generated 3D-printable mazes as STL files
 
 ### Legacy
