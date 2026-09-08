@@ -7,20 +7,20 @@
 - 🗄️ **[life-data](https://github.com/alexjmiller5/life-data)** - Schema-agnostic personal data store: local-first SQLite with an agent-friendly CLI
 - 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
 - ⚙️ **[notion-automations](https://github.com/alexjmiller5/notion-automations)** - All my Notion automations codified outside Notion: Modal cron dispatcher + webhook receiver
-- 💸 **[notion-finance-sync](https://github.com/alexjmiller5/notion-finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
-- 🎵 **[notion-spotify-sync](https://github.com/alexjmiller5/notion-spotify-sync)** - Two-way Spotify ↔ Notion playlist sync
-- 👥 **[contact-sync](https://github.com/alexjmiller5/contact-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my life-data people estate
-- ⭐ **[github-bookmarks-sync](https://github.com/alexjmiller5/github-bookmarks-sync)** - GitHub stars → Notion Bookmarks (Cloudflare Worker, daily cron)
-- 📰 **[my-media-center](https://github.com/alexjmiller5/my-media-center)** - Headless pollers watching RSS feeds & changelogs, pushing updates into Notion
+- 💸 **[finance-sync](https://github.com/alexjmiller5/finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
+- 🎵 **[music-sync](https://github.com/alexjmiller5/music-sync)** - Two-way Spotify ↔ Notion playlist sync
+- 👥 **[people-sync](https://github.com/alexjmiller5/people-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my life-data people estate
+- ⭐ **[bookmarks-sync](https://github.com/alexjmiller5/bookmarks-sync)** - GitHub stars → Notion Bookmarks (Cloudflare Worker, daily cron)
+- 📰 **[media-center](https://github.com/alexjmiller5/media-center)** - Headless pollers watching RSS feeds & changelogs, pushing updates into Notion
 - 🎂 **[birthday-reminders](https://github.com/alexjmiller5/birthday-reminders)** - Opt-in birthday reminders from my Notion People DB with iOS push
-- 📉 **[notion-task-burndown-chart](https://github.com/alexjmiller5/notion-task-burndown-chart)** - Burndown chart over my Notion Tasks DB
+- 📉 **[task-burndown](https://github.com/alexjmiller5/task-burndown)** - Burndown chart over my Notion Tasks DB
 - 📡 **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
 
 ### Declarative Macs & Infra
 
 - ❄️ **[nix-config](https://github.com/alexjmiller5/nix-config)** - Declarative macOS machine configs with nix-darwin + home-manager (runs my mac mini)
 - 🤖 **[agent-config-public](https://github.com/alexjmiller5/agent-config-public)** - Agent-agnostic AI agent skills, the shareable half of my agent configuration
-- ☁️ **[personal-oci-vm-fleet](https://github.com/alexjmiller5/personal-oci-vm-fleet)** - Terraform + NixOS flake for my OCI Always-Free ARM VM fleet
+- ☁️ **[vm-fleet](https://github.com/alexjmiller5/vm-fleet)** - Terraform + NixOS flake for my OCI Always-Free ARM VM fleet
 - 🔭 **[change-detection-deployment](https://github.com/alexjmiller5/change-detection-deployment)** - changedetection.io on NixOS/OCI with Tailscale Funnel for public HTTPS
 - 🛜 **[nixos-ocp-tailscale-vm-iac](https://github.com/alexjmiller5/nixos-ocp-tailscale-vm-iac)** - nixos-infect + Tailscale on an OCI free-tier VM
 
@@ -52,7 +52,7 @@
 
 ### Business Experiments
 
-- 🎓 **[MySupplementals](https://mysupplementals.com)** - Search & export undergraduate college essay prompts
+- 🎓 **[My Supplementals](https://mysupplementals.com)** - Search & export undergraduate college essay prompts
 - 🪩 **[WTW Boston](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter
 - 📣 **[social-pipe](https://github.com/alexjmiller5/social-pipe)** - Pipeline for producing & scheduling social media content
 
