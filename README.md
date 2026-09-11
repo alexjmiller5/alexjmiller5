@@ -53,7 +53,7 @@
 
 ### Business Experiments
 
-- <img src="https://mysupplementals.com/apple-touch-icon.png" width="16" height="16"> **[mysupplementals.com](https://mysupplementals.com)** - Search & export undergraduate college essay prompts (live site, private source)
+- <img src="https://mysupplementals.com/favicon.svg" width="16" height="16"> **[mysupplementals.com](https://mysupplementals.com)** - Search & export undergraduate college essay prompts (live site, private source)
 - <img src="https://wtwboston.com/images/logo.png" width="16" height="16"> **[wtwboston.com](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter (live site, private source)
 - 📣 **[social-pipe](https://github.com/alexjmiller5/social-pipe)** - Pipeline for producing & scheduling social media content
 
