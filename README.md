@@ -9,15 +9,15 @@
 - ⚡ **[reflex](https://github.com/alexjmiller5/reflex)** - My second brain's automations codified as code: daily cron dispatcher + event-driven webhook receiver
 - 👥 **[people-sync](https://github.com/alexjmiller5/people-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my life-data people estate
 - 📰 **[media-center](https://github.com/alexjmiller5/media-center)** - Daily poller pulling TV episodes, YouTube uploads, and feed articles into life-data
-- ⭐ **[bookmarks-sync](https://github.com/alexjmiller5/bookmarks-sync)** - GitHub stars into my bookmarks (Cloudflare Worker, daily cron)
+- <img src="https://raw.githubusercontent.com/alexjmiller5/bookmarks-sync/main/src/lib/assets/favicon.svg" width="16" height="16"> **[bookmarks-sync](https://github.com/alexjmiller5/bookmarks-sync)** - GitHub stars into my bookmarks (Cloudflare Worker, daily cron)
 - 🎵 **[music-sync](https://github.com/alexjmiller5/music-sync)** - My music catalog materialized as rule-driven Spotify playlists
 - 🎂 **[birthday-reminders](https://github.com/alexjmiller5/birthday-reminders)** - Opt-in birthday reminders from my contacts, delivered as iOS push
 
 ### Dashboards
 
-- 💰 **[networth](https://github.com/alexjmiller5/networth)** - Money-over-time dashboard: balances, cash flow, and spending across all my accounts
-- 📱 **[screentime-dashboard](https://github.com/alexjmiller5/screentime-dashboard)** - Dashboard of my Screen Time history across devices, imported in-browser from the backups
-- 📉 **[task-burndown](https://github.com/alexjmiller5/task-burndown)** - Burndown chart over my task list
+- <img src="https://raw.githubusercontent.com/alexjmiller5/networth/main/static/icon-192.png" width="16" height="16"> **[networth](https://github.com/alexjmiller5/networth)** - Money-over-time dashboard: balances, cash flow, and spending across all my accounts
+- <img src="https://raw.githubusercontent.com/alexjmiller5/screentime-dashboard/main/static/icon-192.png" width="16" height="16"> **[screentime-dashboard](https://github.com/alexjmiller5/screentime-dashboard)** - Dashboard of my Screen Time history across devices, imported in-browser from the backups
+- <img src="https://raw.githubusercontent.com/alexjmiller5/task-burndown/main/static/icon-192.png" width="16" height="16"> **[task-burndown](https://github.com/alexjmiller5/task-burndown)** - Burndown chart over my task list
 
 ### Declarative Macs & Infra
 
@@ -53,13 +53,13 @@
 
 ### Business Experiments
 
-- <img src="https://www.google.com/s2/favicons?domain=mysupplementals.com&sz=64" width="16" height="16"> **[mysupplementals.com](https://mysupplementals.com)** - Search & export undergraduate college essay prompts (live site, private source)
-- <img src="https://icons.duckduckgo.com/ip3/wtwboston.com.ico" width="16" height="16"> **[wtwboston.com](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter (live site, private source)
+- <img src="https://mysupplementals.com/apple-touch-icon.png" width="16" height="16"> **[mysupplementals.com](https://mysupplementals.com)** - Search & export undergraduate college essay prompts (live site, private source)
+- <img src="https://wtwboston.com/images/logo.png" width="16" height="16"> **[wtwboston.com](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter (live site, private source)
 - 📣 **[social-pipe](https://github.com/alexjmiller5/social-pipe)** - Pipeline for producing & scheduling social media content
 
 ### School & Hackathons
 
-- 🐝 **[CodeHive](https://github.com/orgs/Spark-Project-Pulse/repositories)** - Platform for developers to share projects and get feedback
+- <img src="https://github.com/Spark-Project-Pulse.png" width="16" height="16"> **[CodeHive](https://github.com/orgs/Spark-Project-Pulse/repositories)** - Platform for developers to share projects and get feedback
 - 📅 **[bu-gcalsync](https://github.com/alexjmiller5/bu-gcalsync)** - Chrome extension syncing BU class schedules to Google Calendar - best use of GCP, BostonHacks 2023
 - ♟️ **[chessms](https://github.com/alexjmiller5/chessms)** - Chess against Stockfish over SMS - best use of CockroachDB, BostonHacks 2022
 - 🕹️ **[doodlejump-neat-ai](https://github.com/alexjmiller5/doodlejump-neat-ai)** - NEAT algorithm learning to play DoodleJump ([video](https://youtu.be/TbiUGNLxEMQ))
