@@ -2,24 +2,28 @@
 
 ## 💼 Projects
 
-### Notion as a Second Brain
+### Second Brain
 
 - 🗄️ **[life-data](https://github.com/alexjmiller5/life-data)** - Schema-agnostic personal data store: local-first SQLite with an agent-friendly CLI
 - 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
 - ⚙️ **[notion-automations](https://github.com/alexjmiller5/notion-automations)** - All my Notion automations codified outside Notion: Modal cron dispatcher + webhook receiver
-- 💸 **[finance-sync](https://github.com/alexjmiller5/finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion — no aggregators
-- 🎵 **[music-sync](https://github.com/alexjmiller5/music-sync)** - Two-way Spotify ↔ Notion playlist sync
 - 👥 **[people-sync](https://github.com/alexjmiller5/people-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my life-data people estate
+- 📰 **[media-center](https://github.com/alexjmiller5/media-center)** - Daily poller pulling TV episodes, YouTube uploads, and feed articles into life-data
 - ⭐ **[bookmarks-sync](https://github.com/alexjmiller5/bookmarks-sync)** - GitHub stars → Notion Bookmarks (Cloudflare Worker, daily cron)
-- 📰 **[media-center](https://github.com/alexjmiller5/media-center)** - Headless pollers watching RSS feeds & changelogs, pushing updates into Notion
+- 🎵 **[music-sync](https://github.com/alexjmiller5/music-sync)** - Two-way Spotify ↔ Notion playlist sync
 - 🎂 **[birthday-reminders](https://github.com/alexjmiller5/birthday-reminders)** - Opt-in birthday reminders from my Notion People DB with iOS push
+
+### Dashboards
+
+- 💰 **[networth](https://github.com/alexjmiller5/networth)** - Money-over-time dashboard: balances, cash flow, and spending across all my accounts
+- 📱 **[screentime-dashboard](https://github.com/alexjmiller5/screentime-dashboard)** - Dashboard of my Screen Time history across devices, imported in-browser from the backups
 - 📉 **[task-burndown](https://github.com/alexjmiller5/task-burndown)** - Burndown chart over my Notion Tasks DB
-- 📡 **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
 
 ### Declarative Macs & Infra
 
 - ❄️ **[nix-config](https://github.com/alexjmiller5/nix-config)** - Declarative macOS machine configs with nix-darwin + home-manager (runs my mac mini)
 - 🤖 **[agent-config-public](https://github.com/alexjmiller5/agent-config-public)** - Agent-agnostic AI agent skills, the shareable half of my agent configuration
+- 🍺 **[homebrew-tap](https://github.com/alexjmiller5/homebrew-tap)** - Distribution channel for my personal macOS apps, casks auto-published by each app's release workflow
 - ☁️ **[vm-fleet](https://github.com/alexjmiller5/vm-fleet)** - Terraform + NixOS flake for my OCI Always-Free ARM VM fleet
 - 🔭 **[change-detection-deployment](https://github.com/alexjmiller5/change-detection-deployment)** - changedetection.io on NixOS/OCI with Tailscale Funnel for public HTTPS
 - 🛜 **[nixos-ocp-tailscale-vm-iac](https://github.com/alexjmiller5/nixos-ocp-tailscale-vm-iac)** - nixos-infect + Tailscale on an OCI free-tier VM
@@ -33,41 +37,40 @@
 
 ### Apps
 
-- 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only — no feed, no reels, no stories
-- 🍺 **[homebrew-tap](https://github.com/alexjmiller5/homebrew-tap)** - Homebrew tap for my personal macOS apps, casks auto-published by each app's release workflow
-- 💰 **[networth](https://github.com/alexjmiller5/networth)** - Money-over-time dashboard: balances, cash flow, and spending across all my accounts
+- 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only - no feed, no reels, no stories
+- 📡 **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
 
 ### Personal Automation
 
 - ⌨️ **[ios-shortcuts](https://github.com/alexjmiller5/ios-shortcuts)** - iOS Shortcuts written in the Cherri language
 - 🔨 **[hammerspoon](https://github.com/alexjmiller5/hammerspoon)** - My Hammerspoon config: global & app-based macOS hotkeys with per-machine profiles
-- 🪟 **[workspace-snapshot](https://github.com/alexjmiller5/workspace-snapshot)** - Hammerspoon Spoon for saving and restoring macOS window workspaces
 
 ### Data Backups
 
 - ⏳ **[screentime-backup](https://github.com/alexjmiller5/screentime-backup)** - Weekly launchd snapshots of the macOS Screen Time databases
-- 📱 **[screentime-dashboard](https://github.com/alexjmiller5/screentime-dashboard)** - Dashboard of my Screen Time history across devices, imported in-browser from the backups
 - 📞 **[callhistory-backup](https://github.com/alexjmiller5/callhistory-backup)** - Weekly snapshots of macOS call & FaceTime history (nix-darwin module)
 - 🩵 **[sticker-sync](https://github.com/alexjmiller5/sticker-sync)** - Weekly launchd sync of iMessage stickers into Documents as plain files
 
 ### Business Experiments
 
-- 🎓 **[My Supplementals](https://mysupplementals.com)** - Search & export undergraduate college essay prompts
-- 🪩 **[WTW Boston](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter
+- 🎓 **[mysupplementals.com](https://mysupplementals.com)** - Search & export undergraduate college essay prompts (live site, private source)
+- 🪩 **[wtwboston.com](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter (live site, private source)
 - 📣 **[social-pipe](https://github.com/alexjmiller5/social-pipe)** - Pipeline for producing & scheduling social media content
 
 ### School & Hackathons
 
-- 🐝 **[CodeHive](https://github.com/orgs/Spark-Project-Pulse/repositories)** - Platform for developers to share projects and get feedback ([codehive.buzz](https://codehive.buzz))
-- 📅 **[bu-gcalsync](https://github.com/alexjmiller5/bu-gcalsync)** - Chrome extension syncing BU class schedules to Google Calendar — best use of GCP, BostonHacks 2023
-- ♟️ **[chessms](https://github.com/alexjmiller5/chessms)** - Chess against Stockfish over SMS — best use of CockroachDB, BostonHacks 2022
+- 🐝 **[CodeHive](https://github.com/orgs/Spark-Project-Pulse/repositories)** - Platform for developers to share projects and get feedback
+- 📅 **[bu-gcalsync](https://github.com/alexjmiller5/bu-gcalsync)** - Chrome extension syncing BU class schedules to Google Calendar - best use of GCP, BostonHacks 2023
+- ♟️ **[chessms](https://github.com/alexjmiller5/chessms)** - Chess against Stockfish over SMS - best use of CockroachDB, BostonHacks 2022
 - 🕹️ **[doodlejump-neat-ai](https://github.com/alexjmiller5/doodlejump-neat-ai)** - NEAT algorithm learning to play DoodleJump ([video](https://youtu.be/TbiUGNLxEMQ))
 - 🥢 **[chopsticks](https://github.com/alexjmiller5/chopsticks)** - Browser game of the nostalgic hand game chopsticks ([chopsticks-chi.vercel.app](https://chopsticks-chi.vercel.app))
 - 🧊 **[3d-printable-maze-generator](https://github.com/alexjmiller5/3d-printable-maze-generator)** - Randomly generated 3D-printable mazes as STL files
 
 ### Legacy
 
-- 🗺️ **[blueprint](https://github.com/alexjmiller5/blueprint)** - Declarative macOS configuration & backup tool — watches configured files, snapshots per-module, auto-commits
+- 💸 **[finance-sync](https://github.com/alexjmiller5/finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion - superseded by networth
+- 🪟 **[workspace-snapshot](https://github.com/alexjmiller5/workspace-snapshot)** - Hammerspoon Spoon for saving and restoring macOS window workspaces
+- 🗺️ **[blueprint](https://github.com/alexjmiller5/blueprint)** - Declarative macOS configuration & backup tool - watches configured files, snapshots per-module, auto-commits
 - 📊 **[stacked-task-chart](https://github.com/alexjmiller5/stacked-task-chart)** - Stacked line chart of Notion task completion over time
 
 ## 🧰 Skills
@@ -92,7 +95,7 @@
 <a href="https://github-stats-extended.vercel.app/api?username=alexjmiller5&theme=tokyonight">
   <img  align="left" src="https://github-stats-extended.vercel.app/api?username=alexjmiller5&theme=tokyonight" />
 </a>
- <a href="[https://github-readme-stats](https://github-stats-extended.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact">
+ <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact">
   <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact" />
 </a>
 </div>
