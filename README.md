@@ -5,19 +5,19 @@
 ### Second Brain
 
 - 🗄️ **[life-data](https://github.com/alexjmiller5/life-data)** - Schema-agnostic personal data store: local-first SQLite with an agent-friendly CLI
-- 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and routing them into Notion
-- ⚙️ **[notion-automations](https://github.com/alexjmiller5/notion-automations)** - All my Notion automations codified outside Notion: Modal cron dispatcher + webhook receiver
+- 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and filing them where they belong
+- ⚡ **[reflex](https://github.com/alexjmiller5/reflex)** - My second brain's automations codified as code: daily cron dispatcher + event-driven webhook receiver
 - 👥 **[people-sync](https://github.com/alexjmiller5/people-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my life-data people estate
 - 📰 **[media-center](https://github.com/alexjmiller5/media-center)** - Daily poller pulling TV episodes, YouTube uploads, and feed articles into life-data
-- ⭐ **[bookmarks-sync](https://github.com/alexjmiller5/bookmarks-sync)** - GitHub stars → Notion Bookmarks (Cloudflare Worker, daily cron)
-- 🎵 **[music-sync](https://github.com/alexjmiller5/music-sync)** - Two-way Spotify ↔ Notion playlist sync
-- 🎂 **[birthday-reminders](https://github.com/alexjmiller5/birthday-reminders)** - Opt-in birthday reminders from my Notion People DB with iOS push
+- ⭐ **[bookmarks-sync](https://github.com/alexjmiller5/bookmarks-sync)** - GitHub stars into my bookmarks (Cloudflare Worker, daily cron)
+- 🎵 **[music-sync](https://github.com/alexjmiller5/music-sync)** - My music catalog materialized as rule-driven Spotify playlists
+- 🎂 **[birthday-reminders](https://github.com/alexjmiller5/birthday-reminders)** - Opt-in birthday reminders from my contacts, delivered as iOS push
 
 ### Dashboards
 
 - 💰 **[networth](https://github.com/alexjmiller5/networth)** - Money-over-time dashboard: balances, cash flow, and spending across all my accounts
 - 📱 **[screentime-dashboard](https://github.com/alexjmiller5/screentime-dashboard)** - Dashboard of my Screen Time history across devices, imported in-browser from the backups
-- 📉 **[task-burndown](https://github.com/alexjmiller5/task-burndown)** - Burndown chart over my Notion Tasks DB
+- 📉 **[task-burndown](https://github.com/alexjmiller5/task-burndown)** - Burndown chart over my task list
 
 ### Declarative Macs & Infra
 
@@ -38,7 +38,7 @@
 ### Apps
 
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only - no feed, no reels, no stories
-- 📡 **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
+- <img src="https://raw.githubusercontent.com/alexjmiller5/receptor/main/Receptor/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
 
 ### Personal Automation
 
@@ -53,8 +53,8 @@
 
 ### Business Experiments
 
-- 🎓 **[mysupplementals.com](https://mysupplementals.com)** - Search & export undergraduate college essay prompts (live site, private source)
-- 🪩 **[wtwboston.com](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter (live site, private source)
+- <img src="https://www.google.com/s2/favicons?domain=mysupplementals.com&sz=64" width="16" height="16"> **[mysupplementals.com](https://mysupplementals.com)** - Search & export undergraduate college essay prompts (live site, private source)
+- <img src="https://icons.duckduckgo.com/ip3/wtwboston.com.ico" width="16" height="16"> **[wtwboston.com](https://wtwboston.com)** - Automated guest-list submission platform for a Boston club promoter (live site, private source)
 - 📣 **[social-pipe](https://github.com/alexjmiller5/social-pipe)** - Pipeline for producing & scheduling social media content
 
 ### School & Hackathons
@@ -68,10 +68,10 @@
 
 ### Legacy
 
-- 💸 **[finance-sync](https://github.com/alexjmiller5/finance-sync)** - Direct bank scrapers syncing transactions & investments into Notion - superseded by networth
+- 💸 **[finance-sync](https://github.com/alexjmiller5/finance-sync)** - Direct bank scrapers for transactions & investments, no aggregators - superseded by networth
 - 🪟 **[workspace-snapshot](https://github.com/alexjmiller5/workspace-snapshot)** - Hammerspoon Spoon for saving and restoring macOS window workspaces
 - 🗺️ **[blueprint](https://github.com/alexjmiller5/blueprint)** - Declarative macOS configuration & backup tool - watches configured files, snapshots per-module, auto-commits
-- 📊 **[stacked-task-chart](https://github.com/alexjmiller5/stacked-task-chart)** - Stacked line chart of Notion task completion over time
+- 📊 **[stacked-task-chart](https://github.com/alexjmiller5/stacked-task-chart)** - Stacked line chart of task completion over time
 
 ## 🧰 Skills
 <p>
