@@ -39,6 +39,7 @@
 
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only - no feed, no reels, no stories
 - <img src="https://raw.githubusercontent.com/alexjmiller5/receptor/main/Receptor/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
+- <img src="https://raw.githubusercontent.com/alexjmiller5/offline-shazam/main/App/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[offline-shazam](https://github.com/alexjmiller5/offline-shazam)** - Capture music offline on iPhone and identify saved songs with ShazamKit for Spotify on next use
 
 ### Personal Automation
 
@@ -99,4 +100,3 @@
   <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alexjmiller5&theme=tokyonight&layout=compact" />
 </a>
 </div>
-
