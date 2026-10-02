@@ -5,6 +5,7 @@
 ### Second Brain
 
 - 🗄️ **[life-data](https://github.com/alexjmiller5/life-data)** - Schema-agnostic personal data store: local-first SQLite with an agent-friendly CLI
+- <img src="https://raw.githubusercontent.com/alexjmiller5/life-ui/main/apps/web/static/favicon.svg" width="16" height="16"> **[life-ui](https://github.com/alexjmiller5/life-ui)** - Local-first web, macOS and iOS clients for catalogued databases
 - 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and filing them where they belong
 - ⚡ **[reflex](https://github.com/alexjmiller5/reflex)** - My second brain's automations codified as code: daily cron dispatcher + event-driven webhook receiver
 - 👥 **[people-sync](https://github.com/alexjmiller5/people-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my life-data people estate
