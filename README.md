@@ -50,6 +50,7 @@
 
 ### Data Backups
 
+- 📄 **[page-archiver](https://github.com/alexjmiller5/page-archiver)** - Capture public web pages as self-contained HTML and PNG with durable local intake
 - ⏳ **[screentime-backup](https://github.com/alexjmiller5/screentime-backup)** - Weekly launchd snapshots of the macOS Screen Time databases
 - 📞 **[callhistory-backup](https://github.com/alexjmiller5/callhistory-backup)** - Weekly snapshots of macOS call & FaceTime history (nix-darwin module)
 - 🩵 **[sticker-sync](https://github.com/alexjmiller5/sticker-sync)** - Weekly launchd sync of iMessage stickers into Documents as plain files
