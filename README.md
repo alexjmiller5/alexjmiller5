@@ -38,6 +38,7 @@
 
 ### Apps
 
+- <img src="https://raw.githubusercontent.com/alexjmiller5/bookmark-mirror/main/extension/icons/icon-128.png" width="16" height="16"> **[bookmark-mirror](https://github.com/alexjmiller5/bookmark-mirror)** - Mirror life-data bookmarks into native Chrome tag folders and capture pages with tags
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only - no feed, no reels, no stories
 - <img src="https://raw.githubusercontent.com/alexjmiller5/receptor/main/Receptor/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
 - <img src="https://raw.githubusercontent.com/alexjmiller5/cochlea/main/App/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[cochlea](https://github.com/alexjmiller5/cochlea)** - Capture music offline on iPhone and identify saved songs with ShazamKit for Spotify on next use
