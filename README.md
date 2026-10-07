@@ -51,6 +51,8 @@
 
 ### Data Backups
 
+- ✈️ **[flighty-sync](https://github.com/alexjmiller5/flighty-sync)** - Read-only Flighty mirror with verified source backups
+
 - 📄 **[page-archiver](https://github.com/alexjmiller5/page-archiver)** - Capture public web pages as self-contained HTML and PNG with durable local intake
 - ⏳ **[screentime-backup](https://github.com/alexjmiller5/screentime-backup)** - Weekly launchd snapshots of the macOS Screen Time databases
 - 📞 **[callhistory-backup](https://github.com/alexjmiller5/callhistory-backup)** - Weekly snapshots of macOS call & FaceTime history (nix-darwin module)
