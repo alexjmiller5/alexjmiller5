@@ -48,6 +48,7 @@
 
 - 📷 **[shared-album-reminders](https://github.com/alexjmiller5/shared-album-reminders)** - Shared photo album reminder planning with a daily macOS module
 - ⌨️ **[ios-shortcuts](https://github.com/alexjmiller5/ios-shortcuts)** - iOS Shortcuts written in the Cherri language
+- ✅ **[verdict](https://github.com/alexjmiller5/verdict)** - Review pages an agent publishes and a person answers in the browser
 - 🔨 **[hammerspoon](https://github.com/alexjmiller5/hammerspoon)** - My Hammerspoon config: global & app-based macOS hotkeys with per-machine profiles
 
 ### Data Backups
