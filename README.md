@@ -4,16 +4,16 @@
 
 ### Second Brain
 
-- 🗄️ **[life-data](https://github.com/alexjmiller5/life-data)** - Schema-agnostic personal data store: local-first SQLite with an agent-friendly CLI
-- <img src="https://raw.githubusercontent.com/alexjmiller5/life-ui/main/apps/web/static/favicon.svg" width="16" height="16"> **[life-ui](https://github.com/alexjmiller5/life-ui)** - Local-first web, macOS and iOS clients for catalogued databases
+- 🗄️ **[soma](https://github.com/alexjmiller5/soma)** - Schema-agnostic personal data store: local-first SQLite with an agent-friendly CLI
+- <img src="https://raw.githubusercontent.com/alexjmiller5/iris/main/apps/web/static/favicon.svg" width="16" height="16"> **[iris](https://github.com/alexjmiller5/iris)** - Local-first web, macOS and iOS clients for catalogued databases
 - 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and filing them where they belong
 - ⚡ **[reflex](https://github.com/alexjmiller5/reflex)** - My second brain's automations codified as code: daily cron dispatcher + event-driven webhook receiver
-- 👥 **[people-sync](https://github.com/alexjmiller5/people-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my life-data people estate
-- 📰 **[media-center](https://github.com/alexjmiller5/media-center)** - Daily poller pulling TV episodes, YouTube uploads, and feed articles into life-data
+- 👥 **[people-sync](https://github.com/alexjmiller5/people-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my soma people estate
+- 📰 **[media-center](https://github.com/alexjmiller5/media-center)** - Daily poller pulling TV episodes, YouTube uploads, and feed articles into soma
 - <img src="https://raw.githubusercontent.com/alexjmiller5/bookmarks-sync/main/src/lib/assets/favicon.svg" width="16" height="16"> **[bookmarks-sync](https://github.com/alexjmiller5/bookmarks-sync)** - GitHub stars into my bookmarks (Cloudflare Worker, daily cron)
 - 🎵 **[music-sync](https://github.com/alexjmiller5/music-sync)** - My music catalog materialized as rule-driven Spotify playlists
-- 🏃 **[strava-sync](https://github.com/alexjmiller5/strava-sync)** - My Strava runs and rides mirrored into life-data cardio workouts via webhooks
-- <img src="https://raw.githubusercontent.com/alexjmiller5/birthdays/main/ios/App/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[birthdays](https://github.com/alexjmiller5/birthdays)** - Native iPhone birthday notifications backed by Life Data
+- 🏃 **[strava-sync](https://github.com/alexjmiller5/strava-sync)** - My Strava runs and rides mirrored into soma cardio workouts via webhooks
+- <img src="https://raw.githubusercontent.com/alexjmiller5/birthdays/main/ios/App/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[birthdays](https://github.com/alexjmiller5/birthdays)** - Native iPhone birthday notifications backed by Soma
 
 ### Dashboards
 
@@ -39,7 +39,7 @@
 
 ### Apps
 
-- <img src="https://raw.githubusercontent.com/alexjmiller5/bookmark-mirror/main/extension/icons/icon-128.png" width="16" height="16"> **[bookmark-mirror](https://github.com/alexjmiller5/bookmark-mirror)** - Mirror life-data bookmarks into native Chrome tag folders and capture pages with tags
+- <img src="https://raw.githubusercontent.com/alexjmiller5/bookmark-mirror/main/extension/icons/icon-128.png" width="16" height="16"> **[bookmark-mirror](https://github.com/alexjmiller5/bookmark-mirror)** - Mirror soma bookmarks into native Chrome tag folders and capture pages with tags
 - 🤫 **[quietgram](https://github.com/alexjmiller5/quietgram)** - Minimal Instagram client for iOS: DMs, search, and activity only - no feed, no reels, no stories
 - <img src="https://raw.githubusercontent.com/alexjmiller5/receptor/main/Receptor/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[receptor](https://github.com/alexjmiller5/receptor)** - iOS & macOS companion app for Synapse, my thought-capture pipeline
 - <img src="https://raw.githubusercontent.com/alexjmiller5/cochlea/main/App/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[cochlea](https://github.com/alexjmiller5/cochlea)** - Capture music offline on iPhone and identify saved songs with ShazamKit for Spotify on next use
