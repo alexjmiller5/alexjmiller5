@@ -12,6 +12,7 @@
 - 📰 **[media-center](https://github.com/alexjmiller5/media-center)** - Daily poller pulling TV episodes, YouTube uploads, and feed articles into life-data
 - <img src="https://raw.githubusercontent.com/alexjmiller5/bookmarks-sync/main/src/lib/assets/favicon.svg" width="16" height="16"> **[bookmarks-sync](https://github.com/alexjmiller5/bookmarks-sync)** - GitHub stars into my bookmarks (Cloudflare Worker, daily cron)
 - 🎵 **[music-sync](https://github.com/alexjmiller5/music-sync)** - My music catalog materialized as rule-driven Spotify playlists
+- 🏃 **[strava-sync](https://github.com/alexjmiller5/strava-sync)** - My Strava runs and rides mirrored into life-data cardio workouts via webhooks
 - <img src="https://raw.githubusercontent.com/alexjmiller5/birthdays/main/ios/App/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="16" height="16"> **[birthdays](https://github.com/alexjmiller5/birthdays)** - Native iPhone birthday notifications backed by Life Data
 
 ### Dashboards
