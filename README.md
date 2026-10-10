@@ -9,6 +9,7 @@
 - 🧠 **[synapse](https://github.com/alexjmiller5/synapse)** - Intelligent middleware capturing my voice/text thoughts and filing them where they belong
 - ⚡ **[reflex](https://github.com/alexjmiller5/reflex)** - My second brain's automations codified as code: daily cron dispatcher + event-driven webhook receiver
 - 👥 **[people-sync](https://github.com/alexjmiller5/people-sync)** - Consolidates every contact source (Apple, Google, Instagram, Snapchat, LinkedIn, Facebook) into my soma people estate
+- 📍 **[findmy-cli](https://github.com/alexjmiller5/findmy-cli)** - Reads Find My people, devices and items through macOS accessibility and appends friends' city checks to soma
 - 📰 **[media-center](https://github.com/alexjmiller5/media-center)** - Daily poller pulling TV episodes, YouTube uploads, and feed articles into soma
 - <img src="https://raw.githubusercontent.com/alexjmiller5/bookmarks-sync/main/src/lib/assets/favicon.svg" width="16" height="16"> **[bookmarks-sync](https://github.com/alexjmiller5/bookmarks-sync)** - GitHub stars into my bookmarks (Cloudflare Worker, daily cron)
 - 🎵 **[music-sync](https://github.com/alexjmiller5/music-sync)** - My music catalog materialized as rule-driven Spotify playlists
