@@ -25,11 +25,16 @@
 ### Declarative Macs & Infra
 
 - ❄️ **[nix-config](https://github.com/alexjmiller5/nix-config)** - Declarative macOS machine configs with nix-darwin + home-manager (runs my mac mini)
-- 🤖 **[agent-config-public](https://github.com/alexjmiller5/agent-config-public)** - Agent-agnostic AI agent skills, the shareable half of my agent configuration
 - 🍺 **[homebrew-tap](https://github.com/alexjmiller5/homebrew-tap)** - Distribution channel for my personal macOS apps, casks auto-published by each app's release workflow
 - ☁️ **[vm-fleet](https://github.com/alexjmiller5/vm-fleet)** - Terraform + NixOS flake for my OCI Always-Free ARM VM fleet
 - 🔭 **[change-detection-deployment](https://github.com/alexjmiller5/change-detection-deployment)** - changedetection.io on NixOS/OCI with Tailscale Funnel for public HTTPS
 - 🛜 **[nixos-ocp-tailscale-vm-iac](https://github.com/alexjmiller5/nixos-ocp-tailscale-vm-iac)** - nixos-infect + Tailscale on an OCI free-tier VM
+
+### AI Agents
+
+- 🤖 **[agent-config-public](https://github.com/alexjmiller5/agent-config-public)** - Agent-agnostic AI agent skills, the shareable half of my agent configuration
+- 🚀 **[agent-dispatch](https://github.com/alexjmiller5/agent-dispatch)** - Sends a task straight to an AI agent: each task marked for dispatch opens an agent session in a new Herdr tab
+- ✅ **[verdict](https://github.com/alexjmiller5/verdict)** - Review pages an agent publishes and a person answers in the browser
 
 ### Project Templates
 
@@ -50,8 +55,6 @@
 
 - 📷 **[shared-album-reminders](https://github.com/alexjmiller5/shared-album-reminders)** - Shared photo album reminder planning with a daily macOS module
 - ⌨️ **[ios-shortcuts](https://github.com/alexjmiller5/ios-shortcuts)** - iOS Shortcuts written in the Cherri language
-- ✅ **[verdict](https://github.com/alexjmiller5/verdict)** - Review pages an agent publishes and a person answers in the browser
-- 🤖 **[agent-dispatch](https://github.com/alexjmiller5/agent-dispatch)** - Sends a task straight to an AI agent: each task marked for dispatch opens an agent session in a new Herdr tab
 - 🔨 **[hammerspoon](https://github.com/alexjmiller5/hammerspoon)** - My Hammerspoon config: global & app-based macOS hotkeys with per-machine profiles
 
 ### Data Backups
